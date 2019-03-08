@@ -2,21 +2,21 @@
   "IFs": [
     {
       "name": "IFSC",
-      "url": "HGJJHHGJHG"
+      "url": "#IFSC"
     },
     {
       "name": "IFRS",
-      "url": "DSASADDSA"
+      "url": "#IFRS"
     }
   ],
   "Cidades": [
     {
-      "name": "paulo",
-      "url": "dfkjslkfds"
+      "name": "Paulo",
+      "url": "#Paulo"
     },
     {
       "name": "Lopes",
-      "url": "dsfdsfds"
+      "url": "#Lopes"
     }
   ]
 }
